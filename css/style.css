@@ -506,22 +506,22 @@ p.lead {
 }
 
 .social-icons ul li span.icons {
-	background: url(../images/i1.png)no-repeat #2E4A84 center;
+	background: url(../images/in.png)no-repeat #fff center;
 	width: 40px;
 	height: 40px;
 	display: inline-block;
 }
 
-.social-icons ul li.fb{
-	background-color: #3b5998;
+.social-icons ul li.in{
+	background-color: #1060a6;
 }
 
-.social-icons ul li.twt{
-	background-color: #55acee;
+.social-icons ul li.git{
+	background-color: #323031;
 }
 
-.social-icons ul li.twt span.icons {
-	background: url(../images/i2.png)no-repeat #4D9CD8 center;
+.social-icons ul li.git span.icons {
+	background: url(../images/github.png)no-repeat #fff center;
 }
 
 .social-icons ul li.ggp{
