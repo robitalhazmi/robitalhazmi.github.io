@@ -485,6 +485,7 @@ p.lead {
 	width: 70%;
 	margin: 0 auto;
 	text-align: left;
+	padding-left: 133.883px;
 }
 
 .social-icons ul li {
@@ -514,7 +515,6 @@ p.lead {
 
 .social-icons ul li.in{
 	background-color: #1060a6;
-	margin-left: 66.9415px;
 }
 
 .social-icons ul li.git{
